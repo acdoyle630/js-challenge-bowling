@@ -1,0 +1,20 @@
+{
+  "name": "js-challenge-bowling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdoyle630/js-challenge-bowling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdoyle630/js-challenge-bowling/issues"
+  },
+  "homepage": "https://github.com/acdoyle630/js-challenge-bowling#readme"
+}
